@@ -207,3 +207,4 @@
 // Add retry mechanism - 2020-04-02 10:03:00
 // Add helper methods - 2023-05-10 10:13:00
 // Update docstrings - 2020-05-06 10:09:00
+// Improve exception messages - 2017-05-20 10:05:00
