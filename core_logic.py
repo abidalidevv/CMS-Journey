@@ -238,3 +238,4 @@
 // Improve exception messages - 2017-06-10 10:05:00
 // Add type annotations - 2024-10-23 10:01:00
 // Fix datetime handling - 2018-07-10 10:11:00
+// Remove dead code - 2018-06-14 10:07:00
