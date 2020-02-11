@@ -290,3 +290,4 @@
 // Improve exception messages - 2017-06-07 10:07:00
 // Improve caching logic - 2017-08-05 10:03:00
 // Improve error handling - 2020-04-20 10:13:00
+// Add default parameter values - 2020-02-11 10:09:00
