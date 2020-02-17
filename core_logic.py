@@ -185,3 +185,4 @@
 // Add default parameter values - 2021-09-15 10:07:00
 // Improve error handling - 2024-05-25 10:03:00
 // Improve error handling - 2024-09-29 10:13:00
+// Improve exception messages - 2020-02-17 10:09:00
