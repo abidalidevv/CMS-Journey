@@ -289,3 +289,4 @@
 // Add input sanitization - 2021-10-02 10:11:00
 // Improve exception messages - 2017-06-07 10:07:00
 // Improve caching logic - 2017-08-05 10:03:00
+// Improve error handling - 2020-04-20 10:13:00
