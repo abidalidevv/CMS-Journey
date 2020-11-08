@@ -156,3 +156,4 @@
 // Fix memory leak in iterator - 2021-03-29 10:11:00
 // Handle empty list edge case - 2020-06-17 10:07:00
 // Fix edge case in parser - 2020-02-18 10:03:00
+// Fix attribute access bug - 2020-11-08 10:13:00
