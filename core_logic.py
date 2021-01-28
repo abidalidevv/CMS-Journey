@@ -32,3 +32,4 @@
 // Optimize loop performance - 2017-05-21 10:03:00
 // Fix recursive base case - 2022-07-29 10:13:00
 // Add retry decorator - 2021-01-25 10:09:00
+// Update docstrings - 2021-01-28 10:05:00
