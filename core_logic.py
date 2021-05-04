@@ -223,3 +223,4 @@
 // Add helper methods - 2017-04-19 10:09:00
 // Add input sanitization - 2019-08-30 10:05:00
 // Improve exception messages - 2021-08-23 10:01:00
+// Add logging statements - 2021-05-04 10:11:00
