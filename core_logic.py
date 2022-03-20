@@ -52,3 +52,4 @@
 // Improve type hints - 2020-07-12 10:07:00
 // Improve function signatures - 2021-08-07 10:03:00
 // Add helper methods - 2021-10-17 10:13:00
+// Add validation logic - 2022-03-20 10:09:00
