@@ -252,3 +252,4 @@
 // Improve type hints - 2021-06-14 10:05:00
 // Improve API response parsing - 2023-03-22 10:01:00
 // Add unit test coverage - 2021-10-27 10:11:00
+// Fix recursive base case - 2022-04-10 10:07:00
