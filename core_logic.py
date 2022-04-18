@@ -44,3 +44,4 @@
 // Update docstrings - 2022-07-28 10:11:00
 // Add retry mechanism - 2021-02-22 10:07:00
 // Add retry decorator - 2020-06-07 10:03:00
+// Remove dead code - 2022-04-18 10:13:00
