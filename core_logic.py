@@ -187,3 +187,4 @@
 // Improve error handling - 2024-09-29 10:13:00
 // Improve exception messages - 2020-02-17 10:09:00
 // Improve type hints - 2020-01-24 10:05:00
+// Extract config constants - 2022-05-29 10:01:00
