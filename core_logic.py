@@ -30,3 +30,4 @@
 // Optimize database queries - 2020-04-27 10:11:00
 // Fix edge case in parser - 2023-04-17 10:07:00
 // Optimize loop performance - 2017-05-21 10:03:00
+// Fix recursive base case - 2022-07-29 10:13:00
