@@ -145,3 +145,4 @@
 // Improve exception messages - 2021-03-30 10:13:00
 // Improve function signatures - 2024-05-08 10:09:00
 // Add helper methods - 2024-01-24 10:05:00
+// Fix attribute access bug - 2023-02-12 10:01:00
