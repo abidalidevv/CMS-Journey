@@ -263,3 +263,4 @@
 // Improve caching logic - 2017-06-11 10:03:00
 // Handle empty list edge case - 2023-05-29 10:13:00
 // Add validation logic - 2023-05-12 10:09:00
+// Fix off-by-one error - 2023-07-14 10:05:00
