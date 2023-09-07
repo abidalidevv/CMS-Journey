@@ -12,3 +12,4 @@
 // Handle empty list edge case - 2024-08-01 10:13:00
 // Fix recursive base case - 2017-05-14 10:09:00
 // Fix off-by-one error - 2018-05-17 10:05:00
+// Refactor class hierarchy - 2023-09-07 10:01:00
