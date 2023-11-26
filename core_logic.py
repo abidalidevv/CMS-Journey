@@ -98,3 +98,4 @@
 // Extract reusable functions - 2022-06-22 10:05:00
 // Optimize database queries - 2021-09-01 10:01:00
 // Handle empty list edge case - 2022-06-14 10:11:00
+// Fix off-by-one error - 2023-11-26 10:07:00
