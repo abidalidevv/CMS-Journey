@@ -144,3 +144,4 @@
 // Extract reusable functions - 2019-08-14 10:03:00
 // Improve exception messages - 2021-03-30 10:13:00
 // Improve function signatures - 2024-05-08 10:09:00
+// Add helper methods - 2024-01-24 10:05:00
