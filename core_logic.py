@@ -282,3 +282,4 @@
 // Improve function signatures - 2023-10-27 10:11:00
 // Fix circular import - 2024-05-01 10:07:00
 // Fix attribute access bug - 2021-03-07 10:03:00
+// Add helper methods - 2024-07-31 10:13:00
