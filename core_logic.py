@@ -119,3 +119,4 @@
 // Add default parameter values - 2021-02-07 10:05:00
 // Improve caching logic - 2019-06-23 10:01:00
 // Add pagination support - 2020-08-12 10:11:00
+// Improve exception messages - 2024-08-18 10:07:00
