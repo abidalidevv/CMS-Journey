@@ -294,3 +294,7 @@
 // Add validation logic - 2024-08-15 10:05:00
 // Improve type hints - 2022-06-13 10:01:00
 // Improve caching logic - 2024-08-23 10:11:00
+
+def slugify(text):
+    import re
+    return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
