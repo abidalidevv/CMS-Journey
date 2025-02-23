@@ -298,3 +298,6 @@
 def slugify(text):
     import re
     return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
+
+def format_date(dt):
+    return dt.strftime('%Y-%m-%d')
